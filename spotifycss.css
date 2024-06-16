@@ -429,3 +429,17 @@ a {
 ::-webkit-scrollbar-thumb:hover{
     background: #c0bdbd;
 }
+
+
+@media (max-width:700px) {
+    .hide700 {
+        display: none;
+    }
+}
+
+@media (max-width:540px) {
+    .hide540 {
+        display: none;
+    }
+}
+
